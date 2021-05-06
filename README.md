@@ -16,6 +16,6 @@ $ git clone https://github.com/NdiraOffcial/Bruteforce
 
 ⇨ 𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩
 
-$ cd bruteforce
+$ cd Bruteforce
 
-$ python2 bruteforce
+$ python2 Bruteforce
