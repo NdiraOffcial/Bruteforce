@@ -15,5 +15,7 @@ $ pip2 install mechanize
 $ git clone https://github.com/NdiraOffcial/Bruteforce
 
 ⇨ 𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩
-$ cd fbcrack
-$ python2 fbcrack
+
+$ cd bruteforce
+
+$ python2 bruteforce
